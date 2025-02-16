@@ -1,12 +1,5 @@
-Basandomi sul contenuto del libro "Mentire con le statistiche" di Darrel Huff, ecco una sezione dettagliata sul tema dei bias cognitivi presenti:
-
----
-
-### **Capitolo 3: Bias cognitivi e interpretazione dei dati**
-
-#### **Definizione di bias cognitivo**
-Un bias cognitivo rappresenta un pregiudizio o un'erronea modalità di ragionamento che influenza la nostra capacità di analizzare informazioni o prendere decisioni. Questo capitolo esplora come i bias possano essere sfruttati nell'uso delle statistiche per manipolare la percezione del pubblico.
-
+## Bias cognitivi e interpretazione dei dati
+> Come i bias influenzano l'analisi e l'uso delle statistiche 
 ---
 
 #### **1. Bias di conferma**
@@ -63,7 +56,7 @@ Un bias cognitivo rappresenta un pregiudizio o un'erronea modalità di ragioname
 
 ---
 
-### **Conclusioni**
-Capire e riconoscere i bias cognitivi è essenziale per interpretare correttamente le statistiche e proteggersi da manipolazioni. Questo richiede un pensiero critico, una chiara comprensione del contesto e la capacità di distinguere dati validi da informazioni distorte.
+#### **10. Bias dell'automazione**
+- **Descrizione**: Eccessiva fiducia nei sistemi automatizzati.
+- **Esempio statistico**: Assumere o scartare candidati basandosi solo sui punteggi di un sistema automatizzato di selezione, senza approfondire il profilo.
 
-Se hai bisogno di approfondire ulteriormente uno specifico bias o di un'applicazione pratica, fammi sapere!
